@@ -1,0 +1,2 @@
+# OcrWithPython
+ Rakam Tanıma
